@@ -1,0 +1,16 @@
+PODS:
+  - SafeStuff (0.1.0)
+
+DEPENDENCIES:
+  - SafeStuff (from `../`)
+
+EXTERNAL SOURCES:
+  SafeStuff:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  SafeStuff: c9149b8cd519b55cc7cb557263619fbb2c5d98c3
+
+PODFILE CHECKSUM: 9666520ab809f21975db4b65daedae582fa29bfe
+
+COCOAPODS: 1.7.2

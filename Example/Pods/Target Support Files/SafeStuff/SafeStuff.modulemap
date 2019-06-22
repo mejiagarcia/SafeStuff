@@ -1,0 +1,6 @@
+framework module SafeStuff {
+  umbrella header "SafeStuff-umbrella.h"
+
+  export *
+  module * { export * }
+}
