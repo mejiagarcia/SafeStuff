@@ -13,7 +13,7 @@ To run the example project, clone the repo, and run `pod install` from the Examp
 
 ## Safe Extensions
 
-The folling UIKit elements are implementing this protocol that contains a safe text.
+The following UIKit elements are implementing this protocol that contains a safe text.
 
 ```swift
 protocol SafeTextProtocol {
@@ -27,7 +27,7 @@ protocol SafeTextProtocol {
 <li>UIButton</li>
 </ul>
 
-The folling UIKit elements are implementing this protocol that contains a safe title.
+The following UIKit elements are implementing this protocol that contains a safe title.
 
 ```swift
 protocol SafeTitleProtocol {
