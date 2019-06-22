@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SafeStuff_Example' do
+  pod 'SafeStuff', :path => '../'
+
+  target 'SafeStuff_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
